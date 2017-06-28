@@ -1,0 +1,10 @@
+# This file contains information about master servers.
+
+# To change displayed string in server list, use "title" option.
+
+# Do not change server identifiers (in []),
+# except for when subservers were changed or reordered
+# in such a way it requires user confirmation to correctly select a subserver
+
+#####################
+# Official RO Servers
