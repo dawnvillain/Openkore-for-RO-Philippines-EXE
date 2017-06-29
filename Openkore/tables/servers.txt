@@ -8,3 +8,8 @@
 
 #####################
 # Official RO Servers
+
+ip 116.93.119.116
+port 6900
+master_version 30
+version 24
